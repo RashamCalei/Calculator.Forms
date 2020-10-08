@@ -1,0 +1,18 @@
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\bin\Debug\Calculator.Forms.exe.config
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\bin\Debug\Calculator.Forms.exe
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\bin\Debug\Calculator.Forms.pdb
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\obj\Debug\Calculator.Forms.csprojAssemblyReference.cache
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\obj\Debug\Calculator.Forms.Properties.Resources.resources
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\obj\Debug\Calculator.Forms.csproj.GenerateResource.cache
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\obj\Debug\Calculator.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\obj\Debug\Calculator.Forms.exe
+C:\Users\Roger\Dysk Google\C#\Projekty\Calculator\Calculator.Forms\Calculator.Forms\obj\Debug\Calculator.Forms.pdb
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\bin\Debug\Calculator.Forms.exe.config
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\bin\Debug\Calculator.Forms.exe
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\bin\Debug\Calculator.Forms.pdb
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\obj\Debug\Calculator.Forms.csprojAssemblyReference.cache
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\obj\Debug\Calculator.Forms.Properties.Resources.resources
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\obj\Debug\Calculator.Forms.csproj.GenerateResource.cache
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\obj\Debug\Calculator.Forms.csproj.CoreCompileInputs.cache
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\obj\Debug\Calculator.Forms.exe
+C:\Users\alkie\Dysk Google\C#\Projekty\Calculator\Calculator (1).Forms\Calculator.Forms\obj\Debug\Calculator.Forms.pdb
